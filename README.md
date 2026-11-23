@@ -12,8 +12,12 @@ Este repositorio servirá para documentar ejercicios y laboratorios de programac
 ## Entorno y herramientas
 
 - **Java:** versión pendiente de definir al iniciar la primera actividad
-- **Entorno de desarrollo:** pendiente de definir
+- **Entorno de desarrollo:** pendiente de definir; todavía no he elegido un programa para escribir y ejecutar código
 - **Control de versiones:** Git y GitHub
+
+## Recursos de aprendizaje
+
+- Plataforma web de lecciones y explicaciones de Java
 
 ## Diseño o diagrama
 
