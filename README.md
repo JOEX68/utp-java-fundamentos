@@ -1,19 +1,19 @@
 # Laboratorio de fundamentos de Java
 
 **Estudiante:** Elvis Castillo  
-**Curso:** Sistemas Colaborativos / [actualizar según corresponda]  
+**Curso:** Sistemas Colaborativos  
 **Institución:** Universidad Tecnológica de Panamá (UTP)  
 **Estado:** En preparación
 
 ## Propósito
 
-Este repositorio servirá para documentar ejercicios y laboratorios de programación en Java durante mi formación. Actualmente es una estructura inicial; todavía no contiene laboratorios completados.
+Este repositorio servirá para documentar ejercicios y laboratorios de programación en Java durante mi formación. Actualmente es una estructura inicial y todavía no contiene actividades completadas.
 
 ## Entorno y herramientas
 
-- Java: [agregar versión utilizada]
-- Entorno de desarrollo: [agregar herramienta utilizada]
-- Git y GitHub para el control de versiones
+- **Java:** versión pendiente de definir al iniciar la primera actividad
+- **Entorno de desarrollo:** pendiente de definir
+- **Control de versiones:** Git y GitHub
 
 ## Diseño o diagrama
 
@@ -23,15 +23,15 @@ Cuando una actividad lo requiera, agregaré un diagrama propio del flujo del pro
 
 | Actividad | Propósito | Estado |
 |---|---|---|
-| [Nombre de la actividad] | [Conceptos que se practicarán] | Pendiente |
+| Primera actividad de Java | Se añadirá al iniciar el laboratorio | Pendiente |
 
 ## Procedimiento
 
 Documentaré los pasos después de realizar cada actividad:
 
-1. [Paso realizado]
-2. [Paso realizado]
-3. [Resultado observado]
+1. Preparar el entorno utilizado.
+2. Realizar y guardar el ejercicio o laboratorio.
+3. Registrar los resultados y lo aprendido.
 
 ## Resultados y aprendizajes
 
